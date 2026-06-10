@@ -1,78 +1,58 @@
-# 👋 Hi there, I'm Kiran Kumar
+# 👋 Kiran Peddi
 
 **Senior DevOps Engineer | Site Reliability Engineer | Cloud Platform Engineer**
 
-I build **reliable**, scalable cloud platforms and automation for modern applications.  
-My focus is on Kubernetes, IaC, CI/CD, and AI‑assisted operations to keep systems observable, secure, and cost‑efficient.
----
-
-## 🚀 Tech Stack & Focus
-
-**Cloud Platforms**  
-AWS, Azure, GCP, Hybrid Cloud Architecture  
-
-**Containers & Orchestration**  
-Docker, Kubernetes (EKS/AKS/GKE), Helm, Kustomize, Argo CD  
-
-**Infrastructure as Code & Automation**  
-Terraform, CloudFormation, Ansible, Bash/Shell scripting  
-
-**CI/CD & Release Engineering**  
-Git, GitHub Actions, Jenkins, GitLab CI, Argo CD  
-
-**Observability & SRE Tooling**  
-Prometheus, Grafana, ELK/EFK Stack, Datadog, OpenTelemetry, Jaeger  
-
-**Incident & On‑Call**  
-PagerDuty, OpsGenie, Slack‑based alerting and automation  
-
-**Security, DevSecOps & Compliance**  
-Snyk, Checkov, Aqua Security, HashiCorp Vault, IAM governance, TLS/PKI automation, secrets management, HIPAA‑aligned controls  
-
-**Data & Messaging**  
-PostgreSQL, MySQL, MS SQL Server, MongoDB, RabbitMQ, Kafka  
-
-**Programming Languages**  
-Python, Go, JavaScript/TypeScript, Bash, YAML, JSON  
+I build and operate production-grade cloud infrastructure for distributed systems, focusing on scalability, reliability, and automation.My work centers on Kubernetes platforms, CI/CD engineering, and infrastructure automation with a strong emphasis on observability, security, and cost efficiency.
 
 ---
 
-## 📂 working on Projects like
+## ⚙️ Core Focus Areas
 
-- 💹 **AI Trading Agent**  
-  Forked from `hkirat/ai-trading-agent`.  
-  Experimenting with LLM‑driven trading strategies, infra automation, and deployment workflows for AI workloads.
-
-- 🏡 **AirbnbClone**  
-  Forked from `SimCoderYoutube/AirbnbClone`.  
-  Using this full‑stack app to practice DevOps patterns: containerization, CI/CD pipelines, and cloud deployment.
-
-- 🧪 **tryhome / tryhome01 / RentEra‑v1**  
-  Personal playgrounds for experimenting with JavaScript/TypeScript, backend APIs, and cloud‑native deployment.
-
-> Many of my repos are labs and experiments where I try new DevOps, SRE, and AI‑Ops ideas.
+- **Cloud Platforms:** AWS, Azure, GCP (multi-cloud, hybrid architectures)
+- **Kubernetes:** EKS / AKS / GKE, Helm, Kustomize, GitOps (Argo CD)
+- **Infrastructure as Code:** Terraform, CloudFormation, Ansible
+- **CI/CD:** GitHub Actions, Jenkins, GitLab CI, Argo CD
+- **Observability:** Prometheus, Grafana, ELK/EFK, Datadog, OpenTelemetry, Jaeger
+- **SRE Practices:** Incident response, on-call automation, SLIs/SLOs, alerting pipelines
+- **Security / DevSecOps:** IAM, Vault, Snyk, Checkov, TLS/PKI, secrets management
+- **Data & Messaging:** PostgreSQL, MySQL, MongoDB, Kafka, RabbitMQ
+- **Languages:** Python, Go, Bash, TypeScript, YAML
 
 ---
 
-## 📚 Learning & Current Goals
+## 🚀 Selected Projects
 
-- Deepening Kubernetes production patterns: multi‑cluster, GitOps, and progressive delivery.  
-- Building AI agents that integrate with Slack and monitoring tools for faster incident response.  
-- Actively exploring remote DevOps/SRE roles in US‑based teams.
+- **AI Trading Agent**  
+  LLM-assisted automation workflows with deployment and infrastructure experimentation.
 
----
+- **Airbnb Clone (DevOps Lab)**  
+  CI/CD pipelines, containerization, and cloud deployment practice environment.
 
-## 📈 GitHub Activity
-
-I use this account for experiments, forks, and learning projects.  
-Expect to see spikes of activity when I explore a new technology or build automation around a concept.
+- **Cloud Labs (tryhome / RentEra-v1)**  
+  Kubernetes deployments, backend APIs, and infrastructure automation experiments.
 
 ---
 
-## 📫 How to Reach Me
+## 🎯 Current Focus
 
-- 📧 Email: `kirantech6@gmail.com`  
-- 💼 LinkedIn: `https://www.linkedin.com/in/kiranp02`  
+- Production-grade Kubernetes patterns (multi-cluster, GitOps, progressive delivery)
+- AI-assisted incident response integrated with observability + Slack automation
+- Scalable system design for cloud-native and distributed architectures
 
-If you’re working on DevOps, SRE, or AI‑driven automation and want to collaborate, feel free to reach out!
-# kirantech66
+---
+
+## 📈 About This Profile
+
+This GitHub is a **hands-on engineering lab**, used for experimentation across DevOps, SRE, and cloud-native systems.  
+Activity reflects continuous learning, automation experiments, and infrastructure design exploration.
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **kirantech6@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/kiranp02  
+
+---
+
+⭐ Open to Senior DevOps / SRE / Platform Engineering opportunities 
