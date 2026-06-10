@@ -50,7 +50,7 @@ Activity reflects continuous learning, automation experiments, and infrastructur
 
 ## 📫 Contact
 
-- 📧 Email: **kirantech6@gmail.com**  
+- 📧 Email: **kirantech66@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/kiranp02  
 
 ---
